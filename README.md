@@ -54,7 +54,7 @@ Clicking on the play button in the video controls should start playing the video
  
  You may even tap on the chat icon in order to chat with your friend as the video plays along on both ends.
  
- ![Figure7](https://user-images.githubusercontent.com/13344744/44401707-21affc80-a56d-11e8-994f-acd05ddc7e5c.jpg)
+ ![Figure7](https://user-images.githubusercontent.com/13344744/44402025-20330400-a56e-11e8-9445-2749ce92a517.jpg)
                                    Figure 7. Tap on chat icon to chat while playing the video.
                                    
                                    
