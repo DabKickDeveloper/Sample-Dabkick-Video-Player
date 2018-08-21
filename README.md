@@ -15,7 +15,7 @@ Next, open the project in Android Studio. You should see the following in the An
 
 # Compiling and running 
 
-To compile and run the sample app, select and run the app configuration in Android Studio. The sample app will install and run on a connected Android device. We recommend using a physical device if possible and 2 devices in order to test the functionalities yourself. Ensure that your device is with an API of atleast 14.
+To compile and run the sample app, select and run the app configuration in Android Studio. The sample app will install and run on a connected Android device. We recommend using a physical device if possible and 2 devices in order to fully test the functionalities of the dabkick player. Ensure that your device is with an API level of atleast 14.
 
 Once run successfully, you should be able to see the home page as below. 
 
