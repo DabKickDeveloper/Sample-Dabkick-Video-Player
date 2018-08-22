@@ -41,14 +41,14 @@ Clicking on the play button in the video controls should start playing the video
  Upon the above step you should be able to see multiple options for sharing such as hangouts, email etc. Select any of the available options and send it to the desired friend. 
  
  
- ![Figure6](https://user-images.githubusercontent.com/13344744/44401676-0218d400-a56d-11e8-9666-0711c3e5271a.jpg)
+ ![hangouts](https://user-images.githubusercontent.com/13344744/44451096-53c66a80-a610-11e8-95d2-4d6f89aea5ef.jpg)
                                    Figure 6 in Device 1. Select any of the available options.
  
  Your friend will recieve the url on the other phone and upon clicking on the url the same video will start playing in both the devices in sync.
  
  You may even tap on the chat icon in order to chat with your friend as the video plays along on both ends.
  
- ![Figure7](https://user-images.githubusercontent.com/13344744/44402025-20330400-a56e-11e8-9445-2749ce92a517.jpg)
+ ![chat](https://user-images.githubusercontent.com/13344744/44451104-5d4fd280-a610-11e8-8605-a6e7920bd404.jpg)
                                    Figure 7. Tap on chat icon to chat while playing the video.
                                    
                                    
