@@ -53,6 +53,17 @@ Clicking on the play button in the video controls should start playing the video
                                    
                                    
   You may either click on the back button of your android device or the "X" mark available on the left hand side of the device to exit the video player.
+  
+ # Supported Device
+ 
+ Min Api level - 14
+ Target sdk version - 27
+ Exo player version - 2.8.0
+ 
+ # Integration steps
+ 
+ You can integrate our Dabkick video player into your own app. To do the ![steps](https://www.dabkick.com/video_player/Firework/)
+ 
 
                                     
               
