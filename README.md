@@ -18,7 +18,7 @@ Next, open the project in Android Studio. You should see the following in the An
 
 To compile and run the sample app, select and run the app configuration in Android Studio. The sample app will install and run on a connected Android device. We recommend using a physical device if possible and 2 devices in order to fully test the functionalities of the dabkick player. Ensure that your device is with an API level of atleast 14.
 
-Once run successfully, you should be able to see the home page(MainActivity). The sample app homepage presents of a list of videos. Selecting a video will open a second activity (PlayerActivity) for playback. 
+Once run successfully, you should be able to see the home page(MainActivity). The sample app homepage presents of a list of videos. Selecting a video will open a second activity (PlayerActivity) for playback as shown in the below image. 
 
 ![4866701222374988684](https://user-images.githubusercontent.com/13344744/44450989-0944ee00-a610-11e8-99c4-e3f91f07c66c.jpg)
 
