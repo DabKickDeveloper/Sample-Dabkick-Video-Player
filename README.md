@@ -18,19 +18,17 @@ Next, open the project in Android Studio. You should see the following in the An
 
 To compile and run the sample app, select and run the app configuration in Android Studio. The sample app will install and run on a connected Android device. We recommend using a physical device if possible and 2 devices in order to fully test the functionalities of the dabkick player. Ensure that your device is with an API level of atleast 14.
 
-Once run successfully, you should be able to see the home page.
+Once run successfully, you should be able to see the home page(MainActivity). The sample app homepage presents of a list of videos. Selecting a video will open a second activity (PlayerActivity) for playback. 
 
+![4866701222374988684](https://user-images.githubusercontent.com/13344744/44450989-0944ee00-a610-11e8-99c4-e3f91f07c66c.jpg)
 
-The sample app presents of a list of videos (MainActivity). Selecting a video will open a second activity (PlayerActivity) for playback. 
-
-![Figure3](https://user-images.githubusercontent.com/13344744/44400404-a4828880-a568-11e8-8e58-3d3282115f82.jpg)
                                       Figure 3 in Device 1 after selecting a video to play
                                       
                                       
                                       
 Clicking on the play button in the video controls should start playing the video, you can invite a friend/another user to 'Watch Together' by tapping on the watch together button provided on the right hand corner of the dabkick player. Upon tapping the button, a custom edit text appears which hints you to enter your name and proceed to tapping on the "Share an invite" option
  
- ![Figure4](https://user-images.githubusercontent.com/13344744/44400642-94b77400-a569-11e8-807d-6881fe7d9571.jpg)
+ ![3155727840643022964](https://user-images.githubusercontent.com/13344744/44451017-1f52ae80-a610-11e8-94f2-2e2299bf28b2.jpg)
                                    Figure 4 in Device 1. Tap on the Watch Together button
                                     
   
