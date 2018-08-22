@@ -57,12 +57,14 @@ Clicking on the play button in the video controls should start playing the video
  # Supported Device
  
  Min Api level - 14
+ 
  Target sdk version - 27
+ 
  Exo player version - 2.8.0
  
  # Integration steps
  
- You can integrate our Dabkick video player into your own app. To do the [steps](https://www.dabkick.com/video_player/Firework/)
+ You can integrate our Dabkick video player into your own app. To do this follow the [integration documentation](https://www.dabkick.com/video_player/Firework/)
  
 
                                     
